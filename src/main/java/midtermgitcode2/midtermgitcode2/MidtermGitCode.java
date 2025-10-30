@@ -12,6 +12,6 @@ package midtermgitcode2.midtermgitcode2;
 public class MidtermGitCode {
 
     public static void main(String[] args) {
-        System.out.println("Midterm Git Test rev 3");
+        System.out.println("Midterm Git Test rev 4 remote");
     }
 }
